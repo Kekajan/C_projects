@@ -1,0 +1,76 @@
+
+6419276 	 Siva 	 maths
+This student is not selected to scholarship.
+
+6419276 	 Sasi 	 bio
+This student is selected to scholarship.
+
+6419276 	 Murugan 	 bio
+This student is not selected to scholarship.
+
+456 	 Surya 	 commerce
+This student is not selected to scholarship.
+
+753 	 Shankar 	 technology
+This student is selected to scholarship.
+
+7894Kajan 	 Kajan 	 mathS
+This student is not selected to scholarship.
+
+742 	 Kajan 	 maths
+This student is not selected to scholarship.
+This student is not selected to scholarship.
+
+45 	 Kajan 	 maths
+This student is selected to scholarship.
+
+4 	 Kajan 	 maths
+This student is not selected to scholarship.
+This student is not selected to scholarship.
+
+45 	 ka 	 maths
+This student is not selected to scholarship.
+This student is not selected to scholarship.
+
+54 	 kajan 	 maths
+This student is not selected to scholarship.
+This student is not selected to scholarship.
+
+45 	 dsfhdskj 	 maths
+This student is not selected to scholarship.
+This student is not selected to scholarship.
+
+45 	 kajan 	 maths
+This student is not selected to scholarship.
+This student is selected to scholarship.
+
+4 	 ka 	 maths
+This student is not selected to scholarship.
+This student is not selected to scholarship.
+
+45 	 hag 	 maths
+This student is not selected to scholarship.
+
+110 	 a 	 maths
+This student is not selected to scholarship.
+
+111 	 sd 	 bio
+This student is not selected to scholarship.
+
+112 	 gf 	 commerce
+This student is not selected to scholarship.
+
+113 	 a 	 technology
+This student is not selected to scholarship.
+
+114 	 asd 	 arts
+This student is selected to scholarship.
+
+45 	 asf 	 maths
+This student is selected to scholarship.
+
+46 	 AliaBhatt 	 comMERCe
+This student is not selected to scholarship.
+
+8 	 k 	 bio
+This student is not selected to scholarship.
